@@ -11,7 +11,11 @@
 * Not available
 
 ### Mysql database connection
-* Not available
+* Host - kreditsystem-database.czir2ycmcwhq.us-east-2.rds.amazonaws.com
+* Port - 3306
+* Database - kreditsystem
+* User - kreditsystem
+* Password - Spørg Magnus <3
 
 ## Built With
 
