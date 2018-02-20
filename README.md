@@ -11,6 +11,9 @@
 * ssh connection - ssh -i "connectAmazonE2.pem" ubuntu@ec2-18-222-19-131.us-east-2.compute.amazonaws.com
 * You need a RSA key for the login, ask Magnus
 
+* Deploying applications and manage overall manage the Tomcat server
+  - ec2-18-222-19-131.us-east-2.compute.amazonaws.com:8080/manager
+
 ### Mysql database connection
 * Host - kreditsystem-database.czir2ycmcwhq.us-east-2.rds.amazonaws.com
 * Port - 3306
