@@ -8,14 +8,15 @@
 * [Installing Apache Tomcat Server Intellij](https://vaadin.com/docs/v7/framework/installing/installing-idea.html)
 
 ### Connect to Tomcat server 
-* Host - 18.222.19.131
+* ssh connection - ssh -i "connectAmazonE2.pem" ubuntu@ec2-18-222-19-131.us-east-2.compute.amazonaws.com
+* You need a RSA key for the login, ask Magnus
 
 ### Mysql database connection
 * Host - kreditsystem-database.czir2ycmcwhq.us-east-2.rds.amazonaws.com
 * Port - 3306
 * Database - kreditsystem
 * User - kreditsystem
-* Password - Spørg Magnus <3
+* Password - ask Magnus <3
 
 ## Built With
 
