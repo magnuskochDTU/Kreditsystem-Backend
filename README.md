@@ -8,7 +8,7 @@
 * [Installing Apache Tomcat Server Intellij](https://vaadin.com/docs/v7/framework/installing/installing-idea.html)
 
 ### Connect to Tomcat server 
-* Not available
+* Host - 18.222.19.131
 
 ### Mysql database connection
 * Host - kreditsystem-database.czir2ycmcwhq.us-east-2.rds.amazonaws.com
