@@ -1,4 +1,4 @@
-package main.java.API;
+package main.java;
 
 import org.glassfish.jersey.server.ResourceConfig;
 
@@ -7,6 +7,6 @@ import javax.ws.rs.ApplicationPath;
 /**
  * Created by magnus
  */
-@ApplicationPath("/api")
-public class AppConfig extends ResourceConfig {
+@ApplicationPath("/API/*")
+public class APIConfig extends ResourceConfig {
 }
